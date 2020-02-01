@@ -1,0 +1,11 @@
+{
+    "projectName":"Node Test",
+    "base_url": "",
+    "image_url": "",
+    "verification_app_secure_code": "",
+    "serverFCMKey": "",
+    "twillioCredentials":{
+    },
+    "nodeMailer":{
+    }
+}
